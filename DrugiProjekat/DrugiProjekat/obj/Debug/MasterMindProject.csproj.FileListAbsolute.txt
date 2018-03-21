@@ -1,0 +1,15 @@
+C:\Users\djordje\Documents\Visual Studio 2013\Projects\DrugiProjekat\DrugiProjekat\bin\Debug\DrugiProjekat.exe.config
+C:\Users\djordje\Documents\Visual Studio 2013\Projects\DrugiProjekat\DrugiProjekat\bin\Debug\DrugiProjekat.exe
+C:\Users\djordje\Documents\Visual Studio 2013\Projects\DrugiProjekat\DrugiProjekat\bin\Debug\DrugiProjekat.pdb
+C:\Users\djordje\Documents\Visual Studio 2013\Projects\DrugiProjekat\DrugiProjekat\obj\Debug\MasterMindProject.csprojResolveAssemblyReference.cache
+C:\Users\djordje\Documents\Visual Studio 2013\Projects\DrugiProjekat\DrugiProjekat\obj\Debug\GamePageEasy.baml
+C:\Users\djordje\Documents\Visual Studio 2013\Projects\DrugiProjekat\DrugiProjekat\obj\Debug\MainWindow.baml
+C:\Users\djordje\Documents\Visual Studio 2013\Projects\DrugiProjekat\DrugiProjekat\obj\Debug\GamePageEasy.g.cs
+C:\Users\djordje\Documents\Visual Studio 2013\Projects\DrugiProjekat\DrugiProjekat\obj\Debug\MainWindow.g.cs
+C:\Users\djordje\Documents\Visual Studio 2013\Projects\DrugiProjekat\DrugiProjekat\obj\Debug\App.g.cs
+C:\Users\djordje\Documents\Visual Studio 2013\Projects\DrugiProjekat\DrugiProjekat\obj\Debug\DrugiProjekat_MarkupCompile.cache
+C:\Users\djordje\Documents\Visual Studio 2013\Projects\DrugiProjekat\DrugiProjekat\obj\Debug\DrugiProjekat.g.resources
+C:\Users\djordje\Documents\Visual Studio 2013\Projects\DrugiProjekat\DrugiProjekat\obj\Debug\DrugiProjekat.Properties.Resources.resources
+C:\Users\djordje\Documents\Visual Studio 2013\Projects\DrugiProjekat\DrugiProjekat\obj\Debug\MasterMindProject.csproj.GenerateResource.Cache
+C:\Users\djordje\Documents\Visual Studio 2013\Projects\DrugiProjekat\DrugiProjekat\obj\Debug\DrugiProjekat.exe
+C:\Users\djordje\Documents\Visual Studio 2013\Projects\DrugiProjekat\DrugiProjekat\obj\Debug\DrugiProjekat.pdb

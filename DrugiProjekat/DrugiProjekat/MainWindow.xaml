@@ -1,0 +1,16 @@
+﻿<Window x:Class="DrugiProjekat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Mastermind" Height="350" Width="380"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,0,0">
+        <Label Content="Ime igraca" HorizontalAlignment="Left" VerticalAlignment="Top" Width="86" Height="30" Margin="156,49,0,0"></Label>
+        <TextBox x:Name="txtime_igraca" Width="193" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="98,84,0,0"/>
+        <RadioButton x:Name="easy" GroupName="tezina" Content="Lako" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="123,118,0,0"></RadioButton>
+        <RadioButton x:Name="hard" GroupName="tezina" Content="Tesko" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="210,118,0,0"></RadioButton>
+        <Button x:Name="btb_startGame" Content="Start Game" Width="70" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Click="btb_startGame_Click" Margin="156,152,0,0"/>
+        <Button x:Name="btnRangListaEasy" Content="Rang lista - easy" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="40,208,0,0" Click="btnRangListaEasy_Click"/> 
+        <Button x:Name="btnRangListaHard" Content="Rang lista - hard" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="230,208,0,0" Click="btnRangListaHard_Click"/>
+    </Grid> 
+</Window>
